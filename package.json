@@ -1,0 +1,24 @@
+{
+  "name": "memorygame",
+  "version": "1.0.0",
+  "description": "This is a simple memory game written in plain JS",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpgera/memorygame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpgera/memorygame/issues"
+  },
+  "homepage": "https://github.com/lpgera/memorygame#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
